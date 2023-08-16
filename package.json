@@ -1,0 +1,31 @@
+{
+  "name": "activiti-bpmn-properties-provider",
+  "version": "0.0.1",
+  "description": "Activiti properties provider module for bpmn-js-properties-panel",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Adam Dilger",
+    "url": "https://github.com/adamDilger"
+  },
+  "keywords": [
+    "activiti",
+    "bpmn-io",
+    "bpmn-js",
+    "properties",
+    "properties-panel"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "bpmn-js": "^13.2.2",
+    "bpmn-js-properties-panel": "^4.0.2"
+  },
+  "devDependencies": {
+    "bpmn-js": "^13.2.2",
+    "bpmn-js-properties-panel": "^4.0.2",
+    "prettier": "^3.0.2",
+    "typescript": "^5.1.6"
+  }
+}
