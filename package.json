@@ -10,6 +10,10 @@
     "name": "Adam Dilger",
     "url": "https://github.com/adamDilger"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamDilger/activiti-bpmn-properties-provider"
+  },
   "keywords": [
     "activiti",
     "bpmn-io",
